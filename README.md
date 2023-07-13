@@ -1,3 +1,3 @@
 # Competitive-Programming-Solutions
 
-DMOJ, and OI solutions
+DMOJ and OI solutions
